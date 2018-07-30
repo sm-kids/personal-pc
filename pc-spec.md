@@ -1,0 +1,1 @@
+# Gaming PC specifications
