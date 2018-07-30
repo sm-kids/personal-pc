@@ -1,4 +1,4 @@
-# Parts list for a gaming PC - version 1
+# Parts list for a gaming PC - version 2018
 
 [PCPartPicker part list](https://pcpartpicker.com/list/xLxH8Y) / [Price breakdown by merchant](https://pcpartpicker.com/list/xLxH8Y/by_merchant/)
 
